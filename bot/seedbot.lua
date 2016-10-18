@@ -259,7 +259,7 @@ Create a group
 
 !createrealm [name]
 Create a realm
-
+sudo_users=@ad_romanticks,-sudousers
 !setname [name]
 Set realm name
 
